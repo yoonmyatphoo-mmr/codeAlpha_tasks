@@ -1,0 +1,21 @@
+.barlist {
+    /* padding: 1em 0.7em; */
+    padding: 20px;
+    line-height: 2.6;
+    /* width: 20%; */
+    /* max-width: 70%; */
+    /* align-items: flex-start; */
+    /* height: 60vh; */
+    list-style: none;
+ }
+ .list {
+    align-items: center;
+    font-size: 1rem;
+    font-family: "Work Sans", sans-serif;
+    padding: 0.12em 1em;
+ }
+ 
+ .list:hover {
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+ }
